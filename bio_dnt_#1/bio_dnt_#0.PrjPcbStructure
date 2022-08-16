@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=bio_dnt_main.SchDoc
+Record=SheetSymbol|SourceDocument=bio_dnt_main.SchDoc|Designator=ADC filters|SchDesignator=ADC filters|FileName=bio_dnt_adc_filter.SchDoc|SymbolType=Normal|RawFileName=bio_dnt_adc_filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=bio_dnt_main.SchDoc|Designator=Power|SchDesignator=Power|FileName=bio_dnt_power.SchDoc|SymbolType=Normal|RawFileName=bio_dnt_power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
